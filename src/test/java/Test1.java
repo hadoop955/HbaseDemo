@@ -29,4 +29,8 @@ public class Test1 {
     public void test5() {
         Demo1.getAllRows("student");
     }
+
+    public void test6(){
+
+    }
 }
