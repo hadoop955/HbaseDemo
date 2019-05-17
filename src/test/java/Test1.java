@@ -15,7 +15,7 @@ public class Test1 {
     public void test2() {
         Demo1.dropTable("student");
     }
-
+//大叔大婶大所萨达
     @Test
     public void test3() {
         Demo1.addData("student", "1", "个人信息", "姓名", "王小波");
