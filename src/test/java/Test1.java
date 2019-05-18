@@ -3,7 +3,7 @@ import org.junit.Test;
 /**
  * @Author: skm
  * @Date: 2019/4/27 18:01
- * @Version scala-2.11.8 +jdk-1.8+spark-2.0.1
+ *
  */
 public class Test1 {
     @Test
